@@ -1,0 +1,34 @@
+_repo: Baltimore-and-The-Nineteenth-of-April-1861A-Study-of-the-War_39346
+_version: 0.1.0
+alternative_title: 'Baltimore and the 19th of April, 1861: A Study of the War'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, George William
+    birthdate: 1812
+    deathdate: 1890
+    gutenberg_agent_id: '39980'
+    url: http://www.gutenberg.org/2009/agents/39980
+description: ''
+gutenberg_issued: '2012-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39346'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F106'
+- !lcsh 'Brown, George William, 1812-1890'
+- !lcc 'E456'
+- !lcsh 'Secession -- Maryland'
+- !lcsh 'Baltimore (Md.) -- History -- Civil War, 1861-1865'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States -- Politics and government -- 1861-1865'
+- !lcsh 'Riots -- Maryland -- Baltimore -- History -- 19th century'
+- !lcsh 'Mayors -- Maryland -- Baltimore -- Biography'
+title: 'Baltimore and the Nineteenth of April, 1861: A Study of the War'
+url: http://www.gutenberg.org/ebooks/39346
